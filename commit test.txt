@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 lollol
 
-=======
 당눈 보여줘
+
 asdf
->>>>>>> textedit
+
